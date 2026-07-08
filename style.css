@@ -3,3 +3,5 @@ body {
   font-family: 'Roboto', sans-serif;
 body {
   background-color: blueviolet;
+  h1 {
+    text-align: center;
