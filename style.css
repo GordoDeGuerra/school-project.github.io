@@ -1,7 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
 @import url('https://googleapis.com');
 body {
   font-family: 'Roboto', sans-serif;
+}
 body {
   background-color: blueviolet;
+}
   h1 {
     text-align: center;
+  }
