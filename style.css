@@ -16,3 +16,6 @@ ul {
 }
 p {
   text-align: center;
+  li {
+    text-align: center;
+  }
