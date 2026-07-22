@@ -1,6 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Faster+One&display=swap');
 @import url('https://googleapis.com');
 @import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&family=Faster+One&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bevan:ital@0;1&display=swap');
+</style>
+.lobster-two-regular {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lobster-two-bold {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.lobster-two-regular-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.lobster-two-bold-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
 }
